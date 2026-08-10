@@ -1,3 +1,5 @@
+
+
 # mqtt-broker
 
 A MQTT server that intends to eventually be [MQTT v5](https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html) and [v3.1.1](https://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html) spec compliant.
@@ -12,7 +14,7 @@ Use the included `valgrind.sh` script to check for memory leaks. This requires t
 
 ### Features
 
-It's recommended to use [MQTT Explorer](https://mqtt-explorer.com/) for testing features maually.
+It's recommended to use [MQTT Explorer](https://mqtt-explorer.com/) for testing features manually.
 
 For protocol testing, it's convenient to use the [MQTT CLI](https://hivemq.github.io/mqtt-cli/), a full MQTT 5.0 and MQTT 3.1.1 compatible command line interface for MQTT clients.
 
